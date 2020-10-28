@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Match Maker</string>
+    <string name="profile_title_text">My Profile Details are</string>
+    <string name="info_title_text">My Information is</string>
+    <string name="location_details_text">My Address is</string>
+    <string name="contact_details_text">My Contact Details are</string>
+    <string name="security_details_text">My Security Details are</string>
+    <string name="no_internet">No Internet Available. You will see saved records if available.</string>
+    <string name="some_error_occurred">Some error occurred.</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+    <string name="accepted">Member Accepted</string>
+    <string name="rejected">Member Declined</string>
+    <string name="swipe_left_right">Swipe Left/Right to view other records</string>
+    <string name="back_online">You are back online.</string>
+</resources>
